@@ -17,7 +17,3 @@ Ingredient.create(name: "sugar")
 Ingredient.create(name: "salt")
 Ingredient.create(name: "milk")
 
-Cocktail.create(name: "Grasshopper", photo: "wkiieyjhkxrlp4nacjoi")
-Cocktail.create(name: "Vino de Verano", photo: "ygkwaygxeaxxzum3hpii")
-Cocktail.create(name: "Mojito", photo: "hrdvgzvpxmu2sqdjmqhx")
-Cocktail.create(name: "Gin tonic", photo: "qx4x2prjfpbto3s6muke")
