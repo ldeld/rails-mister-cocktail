@@ -7,8 +7,13 @@ end
 
 ruby '2.3.5'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+
+#safety gem
+gem 'figaro'
+# front-end gems
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
+#helpers
 gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'rails', '~> 5.0.6'
