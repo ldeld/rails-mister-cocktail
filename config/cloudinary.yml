@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: ldeld
+  api_key: '463688697596237'
+  api_secret: XI_3-e7OaF9JF6qAcD_VYO0WAUE
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: ldeld
+  api_key: '463688697596237'
+  api_secret: XI_3-e7OaF9JF6qAcD_VYO0WAUE
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: ldeld
+  api_key: '463688697596237'
+  api_secret: XI_3-e7OaF9JF6qAcD_VYO0WAUE
+  enhance_image_tag: true
+  static_image_support: false

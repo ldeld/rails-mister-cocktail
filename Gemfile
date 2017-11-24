@@ -8,6 +8,9 @@ end
 ruby '2.3.5'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 
+# image cloud gems
+gem 'carrierwave', '~> 0.11.2'
+gem 'cloudinary'
 #safety gem
 gem 'figaro'
 # front-end gems
